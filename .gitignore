@@ -1,0 +1,10 @@
+node_modules/*
+!node_modules/autoprefixer
+!node_modules/bootstrap
+!node_modules/bootstrap-sass
+!node_modules/browser-sync
+!node_modules/gulp-sass
+!node_modules/uglify
+!node_modules/useref
+!node_modules/gulp-if
+!node_modules/cssnano
